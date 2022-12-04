@@ -26,10 +26,10 @@
           registerEvent()
         },
         error: function (x, y, z) {
-          console.log('***ERROR in simpleJekyllSearch.js***')
-          console.log(x)
-          console.log(y)
-          console.log(z)
+          
+          
+          
+          
           // x.responseText should have what's wrong
         }
       })
