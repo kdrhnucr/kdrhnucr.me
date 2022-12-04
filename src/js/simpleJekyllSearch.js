@@ -26,10 +26,7 @@
           registerEvent()
         },
         error: function (x, y, z) {
-          
-          
-          
-          
+
           // x.responseText should have what's wrong
         }
       })
