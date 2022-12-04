@@ -5,7 +5,11 @@ name = "javascript"
 enabled = true
 
   [analyzers.meta]
-  plugins = ["react"]
+  plugins = [
+    "react",
+    "angularjs",
+    "angular"
+  ]
 
 [[transformers]]
 name = "standardjs"
