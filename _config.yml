@@ -2,7 +2,7 @@
 title: Kadirhan Ucar
 description: "kadirhan@ucar:~#"
 baseurl: "/" # for test: remove string '/space-jekyll-template' to ''
-url: "kdrhnucr.me" # for test: remove string 'http://victorvoid.github.io' to '' but in production: 'https://yourusername.github.io'
+url: "kdrhnucr.github.io" # for test: remove string 'http://victorvoid.github.io' to '' but in production: 'https://yourusername.github.io'
 
 # User settings
 username: Kadirhan Ucar
