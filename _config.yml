@@ -1,7 +1,7 @@
 # Site settings
 title: Kadirhan Ucar
 description: "kadirhan@ucar:~#"
-baseurl: "https://kdrhnucr.me" # for test: remove string '/space-jekyll-template' to ''
+baseurl: "" # for test: remove string '/space-jekyll-template' to ''
 url: "https://kdrhnucr.github.io" # for test: remove string 'http://victorvoid.github.io' to '' but in production: 'https://yourusername.github.io'
 
 # User settings
